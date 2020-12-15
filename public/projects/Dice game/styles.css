@@ -33,6 +33,7 @@ img {
 }
 
 footer {
+  background-color: #06152e;
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
@@ -40,5 +41,6 @@ footer {
 }
 
 .refresh {
-  transition-delay: 2s;
+  text-align: center;
+  transition-delay: 5s;
 }
