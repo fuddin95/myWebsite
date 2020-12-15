@@ -55,6 +55,21 @@ body {
 .rules{
   background-color: cadetblue;
   opacity: 0.3;
-  
+  color: beige;
   font-size: 1.5rem;
+}
+
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  padding:10px;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px auto 20px auto;
+  font-size: 0.75rem;
 }
