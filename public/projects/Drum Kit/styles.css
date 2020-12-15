@@ -77,6 +77,13 @@ h1 {
 .drum:hover{
   background-color: black;
 }
+
+.rules{
+  background-color: cadetblue;
+  opacity: 0.3;
+  color: beige;
+  font-size: 1.5rem;
+}
 /* drum paragraph */
 
 .drum-para{

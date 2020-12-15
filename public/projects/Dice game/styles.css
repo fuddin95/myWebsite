@@ -38,3 +38,7 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 }
+
+.refresh {
+  transition-delay: 2s;
+}
