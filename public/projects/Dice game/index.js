@@ -70,7 +70,7 @@ if(randomNumber1>randomNumber2){
     document.querySelector("h1").innerHTML="🎈🎈Player 1 Won";
 }
 else if(randomNumber2>randomNumber1){
-    document.querySelector("h1").innerHTML="2 Player Won🎈🎈";
+    document.querySelector("h1").innerHTML="🎈🎈Player 2 Won";
 }
 else{
     document.querySelector("h1").innerHTML="Draw!😁";
