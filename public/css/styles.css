@@ -74,14 +74,19 @@ p{
     right: 350px;
     top: 30px;
 }
+
 .skill-row{
+    display: block;
     width: 50%;
     margin: 50px auto 100px auto;
     text-align: left;
     line-height: 2;
 }
+.three{
+    margin-top: 180px;
+}
 .image{
-    width: 25%;
+    width: 20%;
     float: left;
     margin-right: 20px;
 }
