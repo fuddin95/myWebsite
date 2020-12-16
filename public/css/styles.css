@@ -38,6 +38,8 @@ hr{
 p{
     line-height: 2;
 }
+
+
 /* ------------------  Class ------------------------------ */
 .topContainer{
     
@@ -84,6 +86,17 @@ p{
     margin-right: 20px;
 }
 
+ul {
+    list-style: none;
+  }
+li{
+    float: left;
+    list-style-position: inside;
+    list-style-type: disc;
+    margin-right: 1em;
+} 
+
+  /* ------------------ Bottom Container ------------------------------ */ 
 .bottom-container{
     background-color:#66BFBF ;
     padding: 50px 0 20px 0;
