@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Green screen page</title>
+        <link rel="stylesheet" href="green.css" type="text/css">
+</head>
+<body>
+    <script src="https://www.dukelearntoprogram.com/
+course1/common/js/image/SimpleImage.js" > </script>
+<script src='gcode.js'></script>
+
+<h1>Green Screen Changer </h1>
+<p align="center">
+<canvas id = "fgcan" ></canvas>
+<canvas id = "bgcan"></canvas>
+<br>
+
+Foreground Image : 
+<input type = "file" multiple="false" accept="image/*" 
+id="fgfile" onchange="foregroundImg()">
+<br>
+
+Background Image:
+<input type = "file" multiple="false" accept="image/*"
+id="bgfile" onchange="backgroundImg()">
+
+<br>
+<input type = "button" value ="Convert" onclick="greenscreen()">
+<input type = "button" value ="clear screens" onclick="clearScreen()">
+</p>
+</body>
+</html>
