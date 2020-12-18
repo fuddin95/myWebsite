@@ -48,7 +48,7 @@ strong{
 .topContainer{
     
     position: relative;
-    padding-top: 100px;
+    padding-top: 120px;
     background-color: #EAF6F6;    
     }
 .ppro{
@@ -76,13 +76,13 @@ strong{
 .top-cloud{
     position:absolute;
     right: 350px;
-    top: 30px;
+    top: 100px;
 }
 
 .skill-row{
     display: block;
     width: 50%;
-    margin: 20px auto 100px auto;
+    margin: 20px auto 80px auto;
     text-align: left;
     line-height: 2;
 }
