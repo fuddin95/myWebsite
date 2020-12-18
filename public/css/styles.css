@@ -31,14 +31,18 @@ hr{
     width: 15%;
     border-style: dotted none none;
     border-color: #EAF6F6;
-    border-width: 5px;
+    border-width: 10px;
     margin: 50px auto 50px auto;
 }
 
 p{
     line-height: 2;
 }
-
+strong{
+    font-size: medium;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(3, 3, 3);
+}
 
 /* ------------------  Class ------------------------------ */
 .topContainer{
@@ -82,9 +86,7 @@ p{
     text-align: left;
     line-height: 2;
 }
-.three{
-    margin-top: 180px;
-}
+
 .image{
     width: 20%;
     float: left;
