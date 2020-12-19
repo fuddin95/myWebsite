@@ -29,11 +29,12 @@ h3{
 
 
 hr{
-    width: 15%;
-    border-style: dotted none none;
-    border-color: #EAF6F6;
+    border-top: 1px dotted#459c9c;
+    background-color: white;
     border-width: 10px;
     margin: 50px auto 50px auto;
+    width: 20%;
+   
 }
 
 p{
@@ -94,15 +95,7 @@ strong{
     margin-right: 20px;
 }
 
-ul {
-    list-style: none;
-  }
-li{
-    float: left;
-    list-style-position: inside;
-    list-style-type: disc;
-    margin-right: 1em;
-} 
+
 
   /* ------------------ Bottom Container ------------------------------ */ 
 .bottom-container{

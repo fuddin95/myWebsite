@@ -24,3 +24,18 @@ h1{
     margin: auto;
     color: cadetblue;
   }
+  .Btn{
+    background-color: #b33c3c; /* Light Red */
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 12px
+  }
+  .Btn:hover {
+    background-color:#fd0909; /* Dark Red */
+    color: white;
+  }
