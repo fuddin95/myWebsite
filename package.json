@@ -13,5 +13,14 @@
     "express": "^4.17.1",
     "lodash": "^4.17.11"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuddin95/myWebsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fuddin95/myWebsite/issues"
+  },
+  "homepage": "https://github.com/fuddin95/myWebsite#readme",
   "description": ""
 }
